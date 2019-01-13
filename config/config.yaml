@@ -1,0 +1,4 @@
+name: Java Stats
+endpoint: jira.atlassian.net
+username: user@user.com
+token: tester
